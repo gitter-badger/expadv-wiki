@@ -3,8 +3,7 @@
         "layout",
         "js-sequence-diagram",
         "anchor-navigation",
-        "collapsible-menu",
-        "customheader"
+        "collapsible-menu"
     ],
     "styles": {
         "website": "styles/website.css"
