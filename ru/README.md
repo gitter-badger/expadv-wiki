@@ -12,6 +12,8 @@
 
 В остальном поможет это видео: [ссылка на YouTube](https://www.youtube.com/watch?v=5GQ4ls8pLqg Большой обзор Expression Advanced 2).
 
+{% include "./SUMMARY.md" %}
+
 ## Авторы
 
 - [Rusketh](http://github.com/Rusketh) - Ведущий разработчик.
