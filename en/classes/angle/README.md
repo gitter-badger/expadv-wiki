@@ -1,7 +1,5 @@
 #Class `angle`
 
-:+1: test emoji :exclamation:
-
 ``` sequence-hand
 Title: Here is a title
 A->B: Normal line
