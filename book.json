@@ -1,6 +1,7 @@
 {
     "plugins": [
-        "js-sequence-diagram"
+        "js-sequence-diagram",
+        "emoji"
     ],
     "styles": {
         "website": "styles/website.css"
