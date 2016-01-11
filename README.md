@@ -10,7 +10,7 @@ Current revision: **2.0**.
 
 The purpose of Expression Advanced 2 is to add an in-game scriptable entities and screen to Garry's Mod.
 
-This video will help explain: [Youtube link](https://www.youtube.com/watch?v=5GQ4ls8pLqg Big tutorial on Expression Advanced 2).
+With other things this video may help: [YouTube link](https://www.youtube.com/watch?v=5GQ4ls8pLqg Big tutorial on Expression Advanced 2).
 
 ## Credits
 
