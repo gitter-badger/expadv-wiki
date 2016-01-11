@@ -2,7 +2,8 @@
     "plugins": [
         "layout",
         "js-sequence-diagram",
-        "anchor-navigation"
+        "anchor-navigation",
+        "collapsible-menu"
     ],
     "styles": {
         "website": "styles/website.css"
