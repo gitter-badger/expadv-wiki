@@ -14,10 +14,10 @@
 
 ## Авторы
 
-- [Rusketh](http://github.com/Rusketh) - Главный разработчик.
-- [Oskar94](http://github.com/oskar94) - Соразработчик.
-- [Divran](https://github.com/Divran) - Субразработчик.
-- [Syranide](https://github.com/syranide) - Помощник, компилятор основан по его большей части вокруг его работы, использованной в E2.
+- [Rusketh](http://github.com/Rusketh) - Ведущий разработчик.
+- [Oskar94](http://github.com/oskar94) - Со-разработчик.
+- [Divran](https://github.com/Divran) - Суб-разработчик.
+- [Syranide](https://github.com/syranide) - Помощник; компилятор по большей части основан вокруг его работы, использованной в E2.
 - [Mandrac](https://github.com/mandrac) - Модельщик.
 - [Omicron](https://github.com/OmicroNiuM) - Модельщик.
 - Shadowscion - Модельщик.
