@@ -1,10 +1,13 @@
 {
-    "plugins": [],
+    "plugins": [
+        "js-sequence-diagram"
+    ],
     "styles": {
         "website": "styles/website.css"
     },
     "variables": {
         "repo_name": "Rusketh/ExpAdv2",
         "repo_master_url": "https://github.com/Rusketh/ExpAdv2"
-    }
+    },
+    "pluginsConfig": {}
 }
