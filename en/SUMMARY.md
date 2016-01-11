@@ -1,6 +1,6 @@
 # Summary
 
-* [Home Page](./)
+* [Home Page](README.md)
 * [Beginner's Guide](beginner/)
 * [Classes](classes/)
  * [angle](classes/angle/)
