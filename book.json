@@ -1,6 +1,7 @@
 {
     "plugins": [
-        "layout"
+        "layout",
+        "js-sequence-diagram"
     ],
     "styles": {
         "website": "styles/website.css"
