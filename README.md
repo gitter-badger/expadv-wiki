@@ -14,7 +14,7 @@ This video will help explain: [Youtube link](https://www.youtube.com/watch?v=5GQ
 
 ## Credits
 
-- [Rusketh](http://github.com/Rusketh) - Lead Developer.
+- [Rusketh](http://github.com/Rusketh) - Lead developer.
 - [Oskar94](http://github.com/oskar94) - Co-developer.
 - [Divran](https://github.com/Divran) - Sub-developer.
 - [Syranide](https://github.com/syranide) - Helper, Compiler heavily based around his work used in E2.
