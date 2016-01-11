@@ -1,6 +1,6 @@
 # Вики Expression Advanced
 
-![](../images/ea-logo.png)
+![](images/ea-logo.png)
 
 Текущая версия: **2.0**.
 
