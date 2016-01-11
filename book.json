@@ -13,6 +13,8 @@
         "repo_master_url": "https://github.com/Rusketh/ExpAdv2"
     },
     "pluginsConfig": {
-        
+        "addcssjs": {
+            "js": ["js/toolbar.js"]
+        }
     }
 }
