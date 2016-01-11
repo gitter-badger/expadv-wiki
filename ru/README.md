@@ -10,7 +10,7 @@
 
 Предназначение Expression Advanced 2 состоит в добавлении внутриигровых программируемых предметов и экранов в Garry's Mod.
 
-Это видео поможет: [ссылка на Youtube](https://www.youtube.com/watch?v=5GQ4ls8pLqg Большой обзор Expression Advanced 2).
+В остальном п: [ссылка на Youtube](https://www.youtube.com/watch?v=5GQ4ls8pLqg Большой обзор Expression Advanced 2).
 
 ## Авторы
 
