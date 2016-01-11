@@ -15,12 +15,12 @@
 ## Авторы
 
 - [Rusketh](http://github.com/Rusketh) - Главный разработчик.
-- [Oskar94](http://github.com/oskar94) - Со-разработчик.
-- [Divran](https://github.com/Divran) - Суб-разработчик.
+- [Oskar94](http://github.com/oskar94) - Соразработчик.
+- [Divran](https://github.com/Divran) - Субразработчик.
 - [Syranide](https://github.com/syranide) - Помощник, компилятор основан по его большей части вокруг его работы, использованной в E2.
-- [Mandrac](https://github.com/mandrac) - Modeler.
-- [Omicron](https://github.com/OmicroNiuM) - Modeler.
-- Shadowscion - Modeler.
-- [Vercas](https://github.com/vercas) - Vercas' Object Notation & Vercas' Net ([thread](http://www.facepunch.com/showthread.php?t=1194008)).
-- [Yusuke Kamiyamane](http://p.yusukekamiyamane.com/) - Some icons from the Fugue and Diagona icon packs. Licensed under a Creative Commons Attribution 3.0 License.
+- [Mandrac](https://github.com/mandrac) - Модельщик.
+- [Omicron](https://github.com/OmicroNiuM) - Модельщик.
+- Shadowscion - Модельщик.
+- [Vercas](https://github.com/vercas) - Vercas' Object Notation & Vercas' Net ([статья](http://www.facepunch.com/showthread.php?t=1194008)).
+- [Yusuke Kamiyamane](http://p.yusukekamiyamane.com/) - Некоторые иконки из пакетов Fugue и Diagona. Лицензия: [Creative Commons Attribution 3.0 License](http://creativecommons.org/licenses/by/3.0/).
 - [VINTproYKT](https://github.com/VINTproYKT) - Wiki.
