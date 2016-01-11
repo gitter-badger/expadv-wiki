@@ -2,7 +2,7 @@
 
 ![](images/ea-logo.png)
 
-Current revision: 2.0
+Current revision: **2.0**.
 
 ## What is Expression advanced 2?
 
