@@ -1,6 +1,6 @@
 #Class `angle`
 
-``` sequence-hand
+``` sequence
 Title: Here is a title
 A->B: Normal line
 B-->C: Dashed line
