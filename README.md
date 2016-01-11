@@ -10,7 +10,7 @@ Current revision: **2.0**.
 
 This video will help explain:
 
-{% video %} https://www.youtube.com/watch?v=5GQ4ls8pLqg {% endvideo %}
+{% video %}https://www.youtube.com/watch?v=5GQ4ls8pLqg{% endvideo %}
 
 ## Credits
 
