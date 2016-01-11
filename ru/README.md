@@ -23,4 +23,4 @@
 - Shadowscion - Модельщик.
 - [Vercas](https://github.com/vercas) - Vercas' Object Notation & Vercas' Net ([статья](http://www.facepunch.com/showthread.php?t=1194008)).
 - [Yusuke Kamiyamane](http://p.yusukekamiyamane.com/) - Некоторые иконки из пакетов Fugue и Diagona. Лицензия: [Creative Commons Attribution 3.0 License](http://creativecommons.org/licenses/by/3.0/).
-- [VINTproYKT](https://github.com/VINTproYKT) - Wiki.
+- [VINTproYKT](https://github.com/VINTproYKT) - Вик.
