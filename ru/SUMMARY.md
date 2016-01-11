@@ -1,4 +1,5 @@
 # Summary
 
-* [Гид новичка](./beginner/README.md)
+* [Начальная страница](README.md)
+* [Гид новичка](beginner/README.md)
 
