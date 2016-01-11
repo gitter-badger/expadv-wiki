@@ -1,6 +1,6 @@
 # Expression Advanced Wiki
 
-![](images/ea-logo.png)
+![](../images/ea-logo.png)
 
 Current revision: **2.0**.
 
