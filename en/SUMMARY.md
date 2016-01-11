@@ -1,5 +1,5 @@
 # Summary
 
 * [Home Page](README.md)
-* [Beginner's Guide](.en/beginner/README.md)
+* [Beginner's Guide](beginner/README.md)
 
