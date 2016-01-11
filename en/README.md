@@ -12,6 +12,8 @@ The purpose of Expression Advanced 2 is to add an in-game scriptable entities an
 
 With other things this video may help: [YouTube link](https://www.youtube.com/watch?v=5GQ4ls8pLqg Big tutorial on Expression Advanced 2).
 
+{% include "./SUMMARY.md" %}
+
 ## Credits
 
 - [Rusketh](http://github.com/Rusketh) - Lead developer.
