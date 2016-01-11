@@ -14,7 +14,7 @@
     },
     "pluginsConfig": {
         "addcssjs": {
-            "js": ["/js/toolbar.js"]
+            "js": ["../js/toolbar.js"]
         }
     }
 }
