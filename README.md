@@ -8,7 +8,9 @@ Current revision: **2.0**.
 
 **Expression Advanced 2** the successor to the LemonGate. It is no longer a WireMod derived addon and thus no longer requires WireMod to be installed. The purpose of Expression Advanced 2 is to add an in-game scriptable entity and screen to Garry's Mod.
 
-This video will help explain: {% youtube %} https://www.youtube.com/watch?v=5GQ4ls8pLqg {% endyoutube %}
+This video will help explain:
+
+{% video %} https://www.youtube.com/watch?v=5GQ4ls8pLqg {% endvideo %}
 
 ## Credits
 
