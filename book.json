@@ -3,7 +3,8 @@
     "styles": {
         "website": "styles/website.css"
     },
-    "structure": {
-        "readme": "en/README.md"
+    "variables": {
+        "repo_name": "Rusketh/ExpAdv2",
+        "repo_master_url": "https://github.com/Rusketh/ExpAdv2"
     }
 }
