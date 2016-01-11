@@ -12,12 +12,12 @@
 
 Это видео поможет: [ссылка на Youtube](https://www.youtube.com/watch?v=5GQ4ls8pLqg Большой обзор Expression Advanced 2).
 
-## Credits
+## Авторы
 
-- [Rusketh](http://github.com/Rusketh) - Lead Developer.
-- [Oskar94](http://github.com/oskar94) - Co Developer.
-- [Divran](https://github.com/Divran) - Sub Developer.
-- [Syranide](https://github.com/syranide) - Helper, Compiler heavily based around his work used in E2.
+- [Rusketh](http://github.com/Rusketh) - Главный разработчик.
+- [Oskar94](http://github.com/oskar94) - Со-разработчик.
+- [Divran](https://github.com/Divran) - Суб-разработчик.
+- [Syranide](https://github.com/syranide) - Помощник, компилятор основан по его большей части вокруг его работы, использованной в E2.
 - [Mandrac](https://github.com/mandrac) - Modeler.
 - [Omicron](https://github.com/OmicroNiuM) - Modeler.
 - Shadowscion - Modeler.
