@@ -1,4 +1,4 @@
 # Summary
 
-* Beginner's Guide
+* [Beginner's Guide](beginner/README.md)
 
