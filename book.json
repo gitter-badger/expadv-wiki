@@ -1,6 +1,5 @@
 {
     "plugins": [
-        "emoji",
         "js-sequence-hand-diagram",
         "layout"
     ],
