@@ -10,7 +10,7 @@
 
 Предназначение Expression Advanced 2 состоит в добавлении внутриигровых программируемых предметов и экранов в Garry's Mod.
 
-ExpAdv задумывался как аддон, регулярно восполняемый сообществом. Основные изменения производятся в [ветке `master` репозитория {{ book.repo_name }}]({{ book.repo_master_url }}).
+ExpAdv задумывался как аддон, регулярно восполняемый сообществом. Основные изменения производятся в [ветке `master` репозитория {{ book.repo_name }} в GitHub]({{ book.repo_master_url }}).
 
 Видео-обзор аддона: [ссылка на YouTube](https://www.youtube.com/watch?v=5GQ4ls8pLqg Большой обзор Expression Advanced 2).
 
