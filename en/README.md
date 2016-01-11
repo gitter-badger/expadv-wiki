@@ -10,7 +10,9 @@ Current revision: **2.\***, updating by accumulation of important changes.
 
 The purpose of Expression Advanced 2 is to add an in-game scriptable entities and screens to Garry's Mod.
 
-With other things this video may help: [YouTube link](https://www.youtube.com/watch?v=5GQ4ls8pLqg Big tutorial on Expression Advanced 2).
+ExpAdv was intented as addon that regularly enchanced by community. Main changes are performed in [`master` branch of repository {{ book.repo_name }} in GitHub]({{ book.repo_master_url }}).
+
+Video overview of the addon: [YouTube link](https://www.youtube.com/watch?v=5GQ4ls8pLqg Big tutorial on Expression Advanced 2).
 
 {% include "./SUMMARY.md" %}
 
