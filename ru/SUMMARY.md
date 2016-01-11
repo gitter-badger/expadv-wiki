@@ -1,4 +1,4 @@
 # Summary
 
-* Гид новичка
+* [Гид новичка](ru/beginner/README.md)
 
