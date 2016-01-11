@@ -12,7 +12,7 @@
 
 ExpAdv задумывался как аддон, регулярно восполняемый сообществом. Основные изменения производятся в [ветке `master` репозитория {{ book.repo_name }}]({{ book.repo_master_url }}).
 
-В остальном поможет это видео: [ссылка на YouTube](https://www.youtube.com/watch?v=5GQ4ls8pLqg Большой обзор Expression Advanced 2).
+Видео-обзор аддона: [ссылка на YouTube](https://www.youtube.com/watch?v=5GQ4ls8pLqg Большой обзор Expression Advanced 2).
 
 {% include "./SUMMARY.md" %}
 
