@@ -1,4 +1,4 @@
 # Summary
 
-* [Beginner's Guide](en/beginner/README.md)
+* [Beginner's Guide](.en/beginner/README.md)
 
