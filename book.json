@@ -2,5 +2,8 @@
     "plugins": [],
     "styles": {
         "website": "styles/website.css"
+    },
+    "structure": {
+        "readme": "en/README.md"
     }
 }
