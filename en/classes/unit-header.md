@@ -1,3 +1,3 @@
 <script>
-    alert("beach")
+    $(".page-inner h1").html("Class `"+ $(".page-inner h1").html() +"`")
 </script>
