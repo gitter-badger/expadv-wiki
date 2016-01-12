@@ -11,7 +11,8 @@
         "collapsible-menu",
         "language-picker",
         "anchor-navigation",
-        "js-sequence-diagram"
+        "js-sequence-diagram",
+        "disqus"
     ],
     "pluginsConfig": {
         "addcssjs": {
