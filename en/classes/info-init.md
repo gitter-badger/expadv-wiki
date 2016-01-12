@@ -1,1 +1,1 @@
-Initiated in component
+Initialized in component
