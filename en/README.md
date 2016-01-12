@@ -14,7 +14,7 @@ ExpAdv was intented as addon that regularly enchanced by community. Main changes
 
 Video overview of the addon: [YouTube link](https://www.youtube.com/watch?v=5GQ4ls8pLqg Big tutorial on Expression Advanced 2).
 
-{% include "./SUMMARY.md" %}
+#{% include "./SUMMARY.md" %}
 
 ## Credits
 
