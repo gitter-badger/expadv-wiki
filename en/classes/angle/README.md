@@ -1,6 +1,6 @@
-{% include "../unit-script.md" %}
+{% include "../script.md" %}
 
 #angle
 
-{% include "../unit-info.md" %}
-{% include "../unit-info-short.md" %}| a
+{% include "../info.md" %}
+{% include "../info-short.md" %}| a
