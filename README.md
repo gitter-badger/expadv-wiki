@@ -1,5 +1,6 @@
-#Expression Advanced Wiki
+# Expression Advanced Wiki
 
-Collaborators:
+## Credits
 
-* [VINTproYKT](https://github.com/VINTproYKT) - Main Editor
+* [Rodion Borisov (VINTproYKT)](https://github.com/VINTproYKT) - Main Editor
+* [Szymon Jankowski (szumski)](https://github.com/szymski) - Co-Editor
