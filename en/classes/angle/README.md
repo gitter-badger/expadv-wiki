@@ -1,4 +1,3 @@
 #angle
 
-{% extends "../unit-table.md" %}
-{% block short %} a {% endblock %}
+{% include "../unit-title.md" %}
