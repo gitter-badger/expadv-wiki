@@ -1,6 +1,7 @@
 # Expression Advanced Wiki
 
 ## Notice
+
 Languages' directories have templated but different content and scripts, so there will be no problems with localization, but with copy-paste.
 
 ## Credits
