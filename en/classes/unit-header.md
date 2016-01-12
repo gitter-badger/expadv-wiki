@@ -1,1 +1,3 @@
-Class `{% block name %} {% endblock %}`
+<script>
+alert("bitch")
+</script>
