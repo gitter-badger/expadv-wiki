@@ -1,0 +1,1 @@
+Class `{% block name %} {% endblock %}`
