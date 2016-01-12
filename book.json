@@ -16,7 +16,7 @@
     ],
     "pluginsConfig": {
         "addcssjs": {
-            "js": ["./js/main.js"]
+            "js": ["js/main.js"]
         },
         "disqus": {
             "shortName": "expadv",
