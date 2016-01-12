@@ -9,10 +9,9 @@
     "plugins": [
         "addcssjs",
         "collapsible-menu",
-        "language-picker",
         "anchor-navigation",
-        "js-sequence-diagram",
-        "disqus"
+        "disqus",
+        "js-sequence-diagram"
     ],
     "pluginsConfig": {
         "addcssjs": {
