@@ -1,1 +1,0 @@
-alert( document.getElementsByClassName("book-header")[0].innerHTML )
