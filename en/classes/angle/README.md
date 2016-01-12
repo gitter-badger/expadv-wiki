@@ -1,4 +1,2 @@
-#{% extend "../unit-header.md" %}{% block name %}
-angle
-{% endblock %}
+#{% extends "../unit-header.md" %}{% block name %}angle{% endblock %}
 
