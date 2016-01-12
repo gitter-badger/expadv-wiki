@@ -19,7 +19,7 @@
             "js": []
         },
         "disqus": {
-            "shortName": "expadv.gitbooks.io",
+            "shortName": "expadv",
             "useIdentifier": true
         }
     }
