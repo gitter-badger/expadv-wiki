@@ -1,2 +1,3 @@
-#{% extends "../unit-header.md" %}{% block name %}angle{% endblock %}
+#angle
+{% include "../unit-header.md" %}
 
