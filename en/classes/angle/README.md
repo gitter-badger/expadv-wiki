@@ -1,2 +1,2 @@
-#Class `angle`
+#angle
 
