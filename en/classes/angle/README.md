@@ -2,6 +2,5 @@
 
 #angle
 
-Info|
--|----
+{% include "../unit-info.md" %}
 {% include "../unit-info-short.md" %}| a
