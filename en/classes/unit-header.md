@@ -1,3 +1,3 @@
 <script>
-alert("bitch")
+    alert("beach")
 </script>
