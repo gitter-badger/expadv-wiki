@@ -1,0 +1,1 @@
+Can serialize value?
