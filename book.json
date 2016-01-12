@@ -17,6 +17,10 @@
     "pluginsConfig": {
         "addcssjs": {
             "js": []
+        },
+        "disqus": {
+            "shortName": "expadv.gitbooks.io",
+            "useIdentifier": true
         }
     }
 }
