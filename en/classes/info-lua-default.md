@@ -1,1 +1,1 @@
-Default vaue (as seen in Lua)
+Default value (as seen in Lua)
