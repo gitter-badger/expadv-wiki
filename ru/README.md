@@ -14,7 +14,7 @@ ExpAdv задумывался как аддон, регулярно воспол
 
 Видео-обзор аддона: [ссылка на YouTube](https://www.youtube.com/watch?v=5GQ4ls8pLqg Большой обзор Expression Advanced 2).
 
-{% include "./SUMMARY.md" %}
+#{% include "./SUMMARY.md" %}
 
 ## Авторы
 
