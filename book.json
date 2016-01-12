@@ -1,10 +1,4 @@
 {
-    "plugins": [
-        "js-sequence-diagram",
-        "anchor-navigation",
-        "collapsible-menu",
-        "addcssjs"
-    ],
     "styles": {
         "website": "styles/website.css"
     },
@@ -12,6 +6,13 @@
         "repo_name": "Rusketh/ExpAdv2",
         "repo_master_url": "https://github.com/Rusketh/ExpAdv2"
     },
+    "plugins": [
+        "addcssjs",
+        "collapsible-menu",
+        "language-picker",
+        "anchor-navigation",
+        "js-sequence-diagram"
+    ],
     "pluginsConfig": {
         "addcssjs": {
             "js": ["../js/toolbar.js"]
