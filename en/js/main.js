@@ -10,6 +10,7 @@ var PageInner;
 		smartTables.register("component", "Component Overview", {
 			"author": "Author/maintainer",
 			"contrib": "Contributors",
+			"classes": "Classes initialized",
 			"desc": "Short description"
 		}, function(table) {
 			var header = PageInner.querySelector("h1");
