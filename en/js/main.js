@@ -24,6 +24,7 @@ var PageHeader;
 		}, function(table) {
 			var header = PageInner.querySelector("h1");
 			header.innerHTML = "<i class=\"fa fa-cube\"></i> Component: "+ header.innerHTML;
+			CGHAPI.fetchContributors("lua/expadv/components/"+ Title +".lua")
 		});
 
 		smartTables.register("class", "Class Information", {
@@ -36,8 +37,6 @@ var PageHeader;
 		});
 
 		smartTables.retrieve(PageInner);
-		
-		CGHAPI.fetchContributors("lua/expadv/components/"+ Title +".lua")
     }
     else setTimeout(arguments.callee, 10);
 })();
