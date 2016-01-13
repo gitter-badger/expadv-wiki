@@ -29,7 +29,7 @@ var smartTables = {
 		}
 		return vars;
 	},
-	retrieve: function(parent) {
+	retrieve: function(parent, cb) {
 	    if (!this.templates) return;
 		var data = {};
 		var tables = parent.querySelectorAll("table");
@@ -42,6 +42,7 @@ var smartTables = {
 					table.tHead.rows[0].cells[0].innerText = tpl.TableTitle || name
 					data[name] = this.readAndReplace(table.querySelector("tbody"), tpl);
 				}
+				if (cb) cb(table);
 			}
 		}
 		return data;
