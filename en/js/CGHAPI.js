@@ -4,7 +4,6 @@ Author: VINTproYKT
 */
 
 var CGHAPI = {
-	repo: "Rusketh/ExpAdv2",
 	contributors: {},
 	fetchContributors: function(path) {
 		var xmlhttp = new XMLHttpRequest();
