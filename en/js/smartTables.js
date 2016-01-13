@@ -15,6 +15,7 @@ var smartTables = {
 			var name = r[0].innerText.trim();
 			var val = r[1].innerText.trim();
 			var valLower = val.toLowerCase();
+
 			if (valLower == "no") {
 				vars[name] = false;
 				r[1].innerHTML = "<i class=\"fa fa-times\"></i>";
@@ -28,7 +29,13 @@ var smartTables = {
 				r[1].innerText = vars[name].toString();
 			}
 			else vars[name] = val;
-			r[0].innerText = tpl && tpl[name] || name;
+
+			var tplArr = tpl[name];
+			if (typeof tplArr == "string") r[0].innerText = tplArr;
+			else if (typeof tplArr == "array") {
+				r[0].innerText = tplArr[0];
+				tplArr[1](r[0], r[1]);
+			}
 		}
 		return vars;
 	},
