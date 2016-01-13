@@ -7,6 +7,15 @@ var PageInner;
     if (state == "interactive" || state == "complete") {
         PageInner = document.querySelector(".page-inner");
 
+		smartTables.register("component", "Component Overview", {
+			"author": "Author/maintainer",
+			"contrib": "Contributors",
+			"desc": "Short description"
+		}, function(table) {
+			var header = PageInner.querySelector("h1");
+			header.innerHTML = "<i class=\"fa fa-cube\"></i> Component: "+ header.innerHTML;
+		});
+
 		smartTables.register("class", "Class Information", {
 			"init": "Initialized in component",
 			"serial": "Can serialize value?",
@@ -15,15 +24,6 @@ var PageInner;
 		}, function(table) {
 			var header = PageInner.querySelector("h1");
 			header.innerHTML = "<i class=\"fa fa-tag\"></i> Class: "+ header.innerHTML;
-		});
-
-		smartTables.register("component", "Component Overview", {
-			"author": "Author/maintainer",
-			"contrib": "Contributors",
-			"desc": "Short description"
-		}, function(table) {
-			var header = PageInner.querySelector("h1");
-			header.innerHTML = "<i class=\"fa fa-cube\"></i> Component: "+ header.innerHTML;
 		});
 
 		smartTables.retrieve(PageInner);
