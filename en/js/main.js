@@ -10,7 +10,7 @@ var PageInner;
 		smartTables.register("component", "Component Overview", {
 			"author": [
 				"Author/maintainer",
-				function() {
+				function(n, v) {
 					
 				}
 			],
