@@ -16,6 +16,9 @@
     ],
     "pluginsConfig": {
         "addcssjs": {
+            "css": [
+                "./assets/css/common.css"
+            ],
             "js": [
                 "./js/smartTables.js",
                 "./js/CGHAPI.js",
