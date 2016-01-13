@@ -9,9 +9,8 @@ smartTables.register("class", {
 	"short": "Short name",
 	"lua-default": "Default value (as seen in Lua)"
 });
-smartTables.registerDelegate("class", function(table) {
+
+smartTables.retrieve(Page, function(table) {
 	var header = Page.querySelector("h1");
 	header.innerHTML = "<i class=\"fa fa-tag\"></i> Class: "+ header.innerHTML;
 });
-
-smartTables.retrieve(Page);
