@@ -20,9 +20,9 @@
                 "./assets/css/common.css"
             ],
             "js": [
-                "./js/smartTables.js",
-                "./js/CGHAPI.js",
-                "./js/main.js"
+                "./assets/js/smartTables.js",
+                "./assets/js/CGHAPI.js",
+                "./assets/js/main.js"
             ]
         },
         "disqus": {
