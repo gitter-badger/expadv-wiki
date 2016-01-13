@@ -1,4 +1,5 @@
 [data-name='contrib'] td:last-child a {
+    margin-right: 5px;
     width: 32px;
     height: 32px;
 }
