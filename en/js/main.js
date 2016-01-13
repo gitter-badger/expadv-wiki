@@ -11,7 +11,7 @@ var PageInner;
 			"author": [
 				"Author/maintainer",
 				function(n, v) {
-					alert(n +": "+ v);
+					alert(n.innerText +": "+ v.innerText);
 				}
 			],
 			"contrib": "Contributors",
