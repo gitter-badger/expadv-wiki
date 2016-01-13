@@ -1,8 +1,8 @@
 var CGHAPI = {
 	repo: "Rusketh/ExpAdv2",
-	fetchContributors: function() {
+	fetchContributors: function(path) {
 		var xmlhttp = new XMLHttpRequest();
-		xmlhttp.open("GET", "https://api.github.com/repos/"+ this.repo +"/commits?path=", true);
+		xmlhttp.open("GET", "https://api.github.com/repos/"+ this.repo +"/commits?path="+ path, true);
 		xmlhttp.onreadystatechange = function() {
 			if (xmlhttp.readyState == 4) {
 				if(xmlhttp.status == 200) {
