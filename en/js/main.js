@@ -18,7 +18,6 @@ var PageHeader;
 					alert(n.innerText +": "+ v.innerText);
 				}
 			],
-			"contrib": "Contributors",
 			"classes": "Classes initialized",
 			"desc": "Short description"
 		}, function(table) {
