@@ -1,6 +1,6 @@
-## <i class="fa fa-tags"></i> Glossary
+# <i class="fa fa-sort-alpha-asc"></i> Glossary
 
-Any abbreviations and complicated termins - all this is here.
+Any abbreviations and complicated termins - all these is here.
 
 ---
 
