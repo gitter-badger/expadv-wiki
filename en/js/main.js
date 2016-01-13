@@ -11,7 +11,7 @@ document.addEventListener("DOMContentLoaded", function() {
 
 	if (classFinder) {
 		var header = Page.querySelector("h1");
-		header.innerHTML = "Class: "+ header.innerHTML;
+		header.innerHTML = "<i class=\"fa fa-tag\"></i> Class: "+ header.innerHTML;
 		smartTables.register("info", {
 			"TableTitle": "Class Information",
 			"init": "Initialized in component",
