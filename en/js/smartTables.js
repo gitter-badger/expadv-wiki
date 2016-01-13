@@ -12,9 +12,18 @@ var smartTables = {
 			var name = r[0].innerText.trim();
 			var val = r[1].innerText.trim();
 			var valLower = val.toLowerCase();
-			if (valLower == "no") vars[name] = false;
-			else if (valLower == "yes") vars[name] = true;
-			else if (!isNaN(val)) vars[name] = +val;
+			if (valLower == "no") {
+				vars[name] = false;
+				r[1].innerHTML = "<i class=\"fa fa-times\"></i>";
+			}
+			else if (valLower == "yes") {
+				vars[name] = true;
+				r[1].innerHTML = "<i class=\"fa fa-check\"></i>";
+			}
+			else if (!isNaN(val)) {
+				vars[name] = +val;
+				r[1].innerText = vars[name].toString();
+			}
 			else vars[name] = val;
 			r[0].innerText = tpl && tpl[name] || name;
 		}
