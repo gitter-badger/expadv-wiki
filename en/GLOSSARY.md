@@ -1,5 +1,4 @@
 # Glossary
-
 Any abbreviations and complicated definitions - all these are here.
 
 # ExpAdv
