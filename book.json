@@ -18,6 +18,7 @@
         "addcssjs": {
             "js": [
                 "./js/smartTables.js",
+                "./js/CGHAPI.js",
                 "./js/main.js"
             ]
         },
