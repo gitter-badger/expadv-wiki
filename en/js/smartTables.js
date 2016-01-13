@@ -21,6 +21,7 @@ var smartTables = {
 		return vars;
 	},
 	retrieve: function(parent) {
+	    if (!this.templates) return;
 		var data = {};
 		var tables = parent.querySelectorAll("table");
 		for (var i = 0; i < tables.length; i++) {
