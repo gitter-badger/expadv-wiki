@@ -1,3 +1,8 @@
+/*
+Compact GitHub API
+Author: VINTproYKT
+*/
+
 var CGHAPI = {
 	repo: "Rusketh/ExpAdv2",
 	fetchContributors: function(path) {
