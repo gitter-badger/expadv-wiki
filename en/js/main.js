@@ -19,5 +19,6 @@ document.addEventListener("DOMContentLoaded", function() {
 			"short": "Short name",
 			"lua-default": "Default value (as seen in Lua)"
 		});
+		smartTables.retrieve(Page);
 	}
 });
