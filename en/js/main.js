@@ -8,7 +8,12 @@ var PageInner;
         PageInner = document.querySelector(".page-inner");
 
 		smartTables.register("component", "Component Overview", {
-			"author": "Author/maintainer",
+			"author": [
+				"Author/maintainer",
+				function() {
+					
+				}
+			],
 			"contrib": "Contributors",
 			"classes": "Classes initialized",
 			"desc": "Short description"
