@@ -9,6 +9,7 @@ var PageHeader;
     if (state == "interactive" || state == "complete") {
         PageInner = document.querySelector(".page-inner");
 		PageHeader = PageInner.querySelector("h1");
+		var Title = PageHeader.innerText;
 
 		smartTables.register("component", "Component Overview", {
 			"author": [
@@ -36,7 +37,7 @@ var PageHeader;
 
 		smartTables.retrieve(PageInner);
 		
-		CGHAPI.fetchContributors("lua/expadv/components/angle.lua")
+		CGHAPI.fetchContributors("lua/expadv/components/"+ Title +".lua")
     }
     else setTimeout(arguments.callee, 10);
 })();
