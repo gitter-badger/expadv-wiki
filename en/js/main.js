@@ -13,18 +13,14 @@ var PageHeader;
 		var Title = PageHeader.innerText.trim();
 
 		smartTables.register("component", "Component Overview", {
-			"author": [
-				"Author/maintainer",
-				function(n, v) {
-					alert(n.innerText +": "+ v.innerText);
-				}
-			],
+			"author": "Author/maintainer",
 			"classes": "Classes initialized",
 			"desc": "Short description"
 		}, function(table) {
 			PageHeader.innerHTML = "<i class=\"fa fa-cube\"></i> Component: "+ Title;
-			CGHAPI.fetchContributors("lua/expadv/components/"+ Title +".lua");
-			console.log(CGHAPI.contributors);
+			CGHAPI.fetchContributors("lua/expadv/components/"+ Title +".lua", function(c) {
+				console.log(c);
+			});
 		});
 
 		smartTables.register("class", "Class Information", {
