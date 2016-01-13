@@ -1,3 +1,8 @@
+/*
+Smart Tables
+Author: VINTproYKT
+*/
+
 var smartTables = {
 	templates: {},
 	callbacks: {},
