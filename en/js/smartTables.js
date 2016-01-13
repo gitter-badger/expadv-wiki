@@ -16,30 +16,32 @@ var smartTables = {
 		var vars = {};
 		var rows = tBody.rows
 		for (var i = 0; i < rows.length; i++) {
-			var r = rows[i].cells;
-			var name = r[0].innerText.trim();
-			var val = r[1].innerText.trim();
+			var r = rows[i];
+			var c = r.cells;
+			var name = c[0].innerText.trim();
+			r.setAttribute("data-name", name);
+			var val = c[1].innerHTML.trim();
 			var valLower = val.toLowerCase();
 
 			if (valLower == "no") {
 				vars[name] = false;
-				r[1].innerHTML = "<i class=\"fa fa-times\"></i>";
+				c[1].innerHTML = "<i class=\"fa fa-times\"></i>";
 			}
 			else if (valLower == "yes") {
 				vars[name] = true;
-				r[1].innerHTML = "<i class=\"fa fa-check\"></i>";
+				c[1].innerHTML = "<i class=\"fa fa-check\"></i>";
 			}
 			else if (!isNaN(val)) {
 				vars[name] = +val;
-				r[1].innerText = vars[name].toString();
+				c[1].innerText = vars[name].toString();
 			}
 			else vars[name] = val;
 
 			var tplVar = tpl[name];
-			if (typeof tplVar == "string") r[0].innerText = tplVar;
-			else if (typeof tplVar == "array") {
-				r[0].innerText = tplVar[0];
-				tplVar[1](r[0], r[1]);
+			if (typeof tplVar == "string") c[0].innerText = tplVar;
+			else {
+				c[0].innerText = tplVar[0];
+				tplVar[1](i, name, c[0], c[1]);
 			}
 		}
 		return vars;
