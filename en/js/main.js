@@ -2,8 +2,7 @@
 
 var Page = document.querySelector(".page-inner");
 
-smartTables.register("class", {
-	"TableTitle": "Class Information",
+smartTables.register("class", "Class Information", {
 	"init": "Initialized in component",
 	"serial": "Can serialize value?",
 	"short": "Short name",
