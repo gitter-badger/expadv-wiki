@@ -30,11 +30,11 @@ var smartTables = {
 			}
 			else vars[name] = val;
 
-			var tplArr = tpl[name];
-			if (typeof tplArr == "string") r[0].innerText = tplArr;
-			else if (typeof tplArr == "array") {
-				r[0].innerText = tplArr[0];
-				tplArr[1](r[0], r[1]);
+			var tplVar = tpl[name];
+			if (typeof tplVar == "string") r[0].innerText = tplVar;
+			else if (typeof tplVar == "array") {
+				r[0].innerText = tplVar[0];
+				tplVar[1](r[0], r[1]);
 			}
 		}
 		return vars;
