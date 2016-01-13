@@ -1,6 +1,6 @@
 #angle
 
-info|
+class|
 -|-
 init| angle
 serial| Yes
