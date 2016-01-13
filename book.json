@@ -12,11 +12,15 @@
         "collapsible-menu",
         "anchor-navigation",
         "disqus",
-        "js-sequence-diagram"
+        "js-sequence-diagram",
+        "gist"
     ],
     "pluginsConfig": {
         "addcssjs": {
-            "js": ["./js/smartTables.js", "./js/main.js"]
+            "js": [
+                "./js/smartTables.js",
+                "./js/main.js"
+            ]
         },
         "disqus": {
             "shortName": "expadv",
