@@ -1,4 +1,4 @@
-# <i class="fa fa-tags"></i> Components
+# <i class="fa fa-cubes"></i> Components
 
 Articles here describe every component from the scratch: description, classes, functions, events, examples.
 
