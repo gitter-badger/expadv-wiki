@@ -1,3 +1,9 @@
+## <i class="fa fa-tags"></i> Glossary
+
+Any abbreviations and complicated termins - all this is here.
+
+---
+
 # ExpAdv
 This means Expression Advanced.
 
