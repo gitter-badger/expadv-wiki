@@ -11,8 +11,8 @@
         "language-picker",
         "collapsible-menu",
         "anchor-navigation",
-        "gist",
-        "disqus"
+        "gist"/*,
+        "disqus"*/
     ],
     "pluginsConfig": {
         "addcssjs": {
