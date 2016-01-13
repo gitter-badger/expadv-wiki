@@ -9,7 +9,7 @@ var CGHAPI = {
                     var countryList = obj.countrylist;
                  }
             }
-    };
-    xmlhttp.send(null);
+        };
+        xmlhttp.send(null);
     }
 }
