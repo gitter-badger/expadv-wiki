@@ -1,8 +1,9 @@
 var smartTables = {
 	templates: {},
 	callbacks: {},
-	register: function(tplName, tplMrg, cb) {
+	register: function(tplName, tplTitle, tplMrg, cb) {
 		this.templates[tplName] = this.templates[tplName] || {};
+		this.templates[tplName]["TableTitle"] = tplTitle;
 		for (var nameMrg in tplMrg) { this.templates[tplName][nameMrg] = tplMrg[nameMrg]; }
 		if (cb) this.callbacks[tplName] = cb;
 	},
