@@ -1,8 +1,6 @@
-## <i class="fa fa-sort-alpha-asc"></i> Glossary
+# Glossary
 
 Any abbreviations and complicated definitions - all these are here.
-
----
 
 # ExpAdv
 This means Expression Advanced.
