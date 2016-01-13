@@ -1,4 +1,5 @@
 // Required: smartTables.js
+// Required: compact_GitHub_API.js
 
 var PageInner;
 
