@@ -24,6 +24,7 @@ var PageHeader;
 		}, function(table) {
 			PageHeader.innerHTML = "<i class=\"fa fa-cube\"></i> Component: "+ Title;
 			CGHAPI.fetchContributors("lua/expadv/components/"+ Title +".lua");
+			console.log(CGHAPI.contributors);
 		});
 
 		smartTables.register("class", "Class Information", {
