@@ -7,7 +7,6 @@ var CGHAPI = {
 	contributors: {},
 	fetchContributors: function(path, cb) {
 		var self = this;
-		this.fetchCb = cb;
 		var xmlhttp = new XMLHttpRequest();
 		xmlhttp.open("GET", "https://api.github.com/repos/"+ this.repo +"/commits?path="+ path, true);
 		xmlhttp.onreadystatechange = function() {
@@ -19,7 +18,7 @@ var CGHAPI = {
 						var author = comm[i].author;
 						self.contributors[path][author.login] = author;
 					}
-					CGHAPI.fetchCb(self.contributors[path]);
+					cb(self.contributors[path]);
 				}
 			}
 		};
