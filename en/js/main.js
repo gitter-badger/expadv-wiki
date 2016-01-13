@@ -1,6 +1,7 @@
 // Required: smartTables.js
 // Required: compact_GitHub_API.js
 
+CGHAPI.repo = "Rusketh/ExpAdv2";
 var PageInner;
 var PageHeader;
 
