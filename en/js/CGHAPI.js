@@ -5,6 +5,7 @@ Author: VINTproYKT
 
 var CGHAPI = {
 	repo: "Rusketh/ExpAdv2",
+	contributors: {},
 	fetchContributors: function(path) {
 		var xmlhttp = new XMLHttpRequest();
 		xmlhttp.open("GET", "https://api.github.com/repos/"+ this.repo +"/commits?path="+ path, true);
