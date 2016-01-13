@@ -4,7 +4,7 @@ var PageInner;
 
 (function() {
     var state = document.readyState;
-    if (state == "interative" || state == "complete") {
+    if (state == "interactive" || state == "complete") {
         PageInner = document.querySelector(".page-inner");
 
 		smartTables.register("class", "Class Information", {
