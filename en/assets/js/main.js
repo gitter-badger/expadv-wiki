@@ -13,7 +13,7 @@ var PageHeader;
 		var Title = PageHeader.innerText.trim();
 
 		smartTables.register("component", "Component Overview", {
-			"author": ["Author/maintainer", function(i, oldName, nC, vC) {
+			"author": ["Author/maintainers", function(i, oldName, nC, vC) {
 				var r = nC.parentNode.parentNode.insertRow(i + 1);
 				r.insertCell(0).innerText = "contrib";
 				r.insertCell(1).innerHTML = "<i class=\"fa fa-lemon-o fa-spin\"></i>";
@@ -24,7 +24,6 @@ var PageHeader;
 		}, function(table) {
 			PageHeader.innerHTML = "<i class=\"fa fa-cube\"></i> Component: "+ Title;
 			CGHAPI.fetchContributors("lua/expadv/components/"+ Title +".lua", function(contrib) {
-				console.log(contrib);
 				var r = table.querySelector("[data-name='contrib']");
 				var v = r.cells[1];
 				v.innerHTML = "";
